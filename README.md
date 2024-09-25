@@ -8,10 +8,6 @@
 - [Features](#features)
 - [Sorting Algorithms](#sorting-algorithms)
 - [Interactive Controls](#interactive-controls)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
