@@ -1,6 +1,6 @@
 import random
 from multiprocessing import Process
-from sorting_algorithms import (
+from algorithms import (
     selection_sort,
     bubble_sort,
     insertion_sort,
@@ -12,7 +12,7 @@ from sorting_algorithms import (
     radix_sort,
     cocktail_shaker_sort
 )
-from sorting_visualizer import (
+from visualizer import (
     visualize_selection_sort,
     visualize_bubble_sort,
     visualize_insertion_sort,
