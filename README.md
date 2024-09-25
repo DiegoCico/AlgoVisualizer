@@ -1,7 +1,6 @@
 # 📊 Sorting Visualization Tool
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/github/license/yourusername/sorting-visualization-tool)
 
 ## Table of Contents
 
@@ -18,7 +17,9 @@
 
 The **Sorting Visualization Tool** is a Python application that graphically demonstrates how various sorting algorithms work. It helps users understand the mechanics behind each algorithm through dynamic visualizations and interactive controls.
 
-![Sorting Visualization Screenshot](path/to/screenshot.png)
+
+![DEMOVIDEO](https://github.com/user-attachments/assets/29273475-868f-4f26-88b8-da354ef2528f)
+
 
 ## Features
 
