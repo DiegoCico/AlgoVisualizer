@@ -1,3 +1,6 @@
 env/
 
+.env
+env
+
 __pychache__/
